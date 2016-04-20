@@ -1,0 +1,3 @@
+[submodule "lib/uECC"]
+	path = lib/uECC
+	url = https://github.com/kmackay/micro-ecc.git
